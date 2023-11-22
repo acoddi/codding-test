@@ -1,4 +1,4 @@
-String Builder
+#String Builder
 String을 만드는 객체
 """
 StringBuilder sb = new StriugBuilder(); : 객체 선언
